@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rbxruby.top	TRUE	/	FALSE	1999999999	PHPSESSID	k7mf6sq72rcvv74jrosvm097rv
+
